@@ -25,9 +25,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0520-detect-capital](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0520-detect-capital) |
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
