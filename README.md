@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0520-detect-capital) |
 | [0782-jewels-and-stones](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1205-defanging-an-ip-address) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
 | ------- |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Simulation
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
