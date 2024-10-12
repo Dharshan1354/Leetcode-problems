@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1775-design-an-ordered-stream](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1775-design-an-ordered-stream) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0782-jewels-and-stones](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0782-jewels-and-stones) |
+| [1775-design-an-ordered-stream](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1775-design-an-ordered-stream) |
 ## Sorting
 |  |
 | ------- |
@@ -74,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Design
+|  |
+| ------- |
+| [1775-design-an-ordered-stream](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1775-design-an-ordered-stream) |
+## Data Stream
+|  |
+| ------- |
+| [1775-design-an-ordered-stream](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1775-design-an-ordered-stream) |
 <!---LeetCode Topics End-->
