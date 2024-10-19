@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
+| [0392-is-subsequence](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0520-detect-capital) |
 | [0782-jewels-and-stones](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -110,4 +112,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
