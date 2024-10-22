@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
