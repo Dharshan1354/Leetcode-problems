@@ -155,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
+## Database
+|  |
+| ------- |
+| [1625-group-sold-products-by-the-date](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1625-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->
