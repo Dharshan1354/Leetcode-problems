@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1775-design-an-ordered-stream](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1775-design-an-ordered-stream) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0055-jump-game) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Design
