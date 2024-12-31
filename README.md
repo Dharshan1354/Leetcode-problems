@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1205-defanging-an-ip-address](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1205-defanging-an-ip-address) |
+| [1250-longest-common-subsequence](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1666-make-the-string-great](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1666-make-the-string-great) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1954-replace-all-digits-with-characters](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1954-replace-all-digits-with-characters) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0343-integer-break](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0392-is-subsequence) |
+| [1250-longest-common-subsequence](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1250-longest-common-subsequence) |
 ## Brainteaser
 |  |
 | ------- |
