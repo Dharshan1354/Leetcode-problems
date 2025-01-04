@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0414-third-maximum-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1775-design-an-ordered-stream](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1775-design-an-ordered-stream) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
