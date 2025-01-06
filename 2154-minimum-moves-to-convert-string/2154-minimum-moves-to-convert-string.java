@@ -1,16 +1,15 @@
 class Solution {
     public int minimumMoves(String s) {
-        char[] arr = s.toCharArray();
-        int n = s.length();
         int total = 0;
-        for(int i=0; i<s.length(); i++){
-            if(arr[i] == 'X'){
+        int i = 0;
+        while(i < s.length()){
+            if(s.charAt(i) == 'X'){
+                i+=3;
                 total++;
-                arr[i] = 'O';
-                if(i+1 < n) arr[i+1] = 'O';
-                if(i+2 < n) arr[i+2] = 'O';
             }
-      }
-      return total;
+            else
+                i++;
+        }
+        return total;
     }
 }
