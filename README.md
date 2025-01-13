@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0171-excel-sheet-column-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0343-integer-break) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0258-add-digits) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2507-number-of-common-factors) |
 ## Dynamic Programming
