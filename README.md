@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0171-excel-sheet-column-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0189-rotate-array) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0258-add-digits) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
