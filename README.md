@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0782-jewels-and-stones](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0782-jewels-and-stones) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0058-length-of-last-word) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0171-excel-sheet-column-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
