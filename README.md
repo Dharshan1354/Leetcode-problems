@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1775-design-an-ordered-stream](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1775-design-an-ordered-stream) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Dharshan1354/Leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0520-detect-capital) |
