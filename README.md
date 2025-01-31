@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0088-merge-sorted-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0258-add-digits) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0054-spiral-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
