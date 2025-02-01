@@ -1,45 +1,27 @@
 class Solution {
     public boolean strongPasswordCheckerII(String password) {
-        int len = password.length();
-        if(len < 8)
-            return false;
-        int count = 0;
-        for(int i=0; i<len; i++){
+        if (password.length() < 8) return false;
+        byte lowercase = 0, uppercase = 0, digit = 0, specialCharacter = 0; 
+
+        for (int i = 0; i < password.length(); i++) {
             char ch = password.charAt(i);
-            if(ch > 64 && ch < 91){
-                count++;
-                break;
-            } 
+            if (i < password.length() - 1) {
+                if (ch == password.charAt(i + 1)) {
+                    return false;
+                }
+            }
+
+            if (ch >= 'a' && ch <= 'z') {
+                lowercase++;
+            }else if (ch >= 'A' && ch <= 'Z') {
+                uppercase++;
+            } else if (ch >= '0' && ch <= '9') {
+                digit++;
+            }else {
+                specialCharacter++;
+            }
         }
-        for(int i=0; i<len; i++){
-            char ch = password.charAt(i);
-            if(ch > 96 && ch < 123){
-                count++;
-                break;
-            } 
-        }
-        for(int i=0; i<len; i++){
-            char ch = password.charAt(i);
-            if(ch > 47 && ch < 58){
-                count++;
-                break;
-            } 
-        }
-        for(int i=0; i<len; i++){
-            char ch = password.charAt(i);
-            if(ch == '!' || ch == '@' ||ch == '#' ||ch == '$' ||ch == '%' ||ch == '^' ||ch == '&' ||ch == '*' ||ch == '(' ||ch == ')' ||ch == '-' ||ch == '+'){
-                count++;
-                break;
-            } 
-        }
-        for(int i=1; i<len; i++){
-            char ch = password.charAt(i);
-            if(ch == password.charAt(i-1)){
-                return false;
-            } 
-        }
-        if(count == 4)
-            return true;
-        return false;
+
+        return lowercase > 0 && uppercase > 0 && digit > 0 && specialCharacter > 0 ? true : false;
     }
 }
