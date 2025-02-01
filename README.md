@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2154-minimum-moves-to-convert-string) |
+| [2391-strong-password-checker-ii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2391-strong-password-checker-ii) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
