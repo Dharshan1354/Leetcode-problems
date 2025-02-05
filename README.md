@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
