@@ -11,10 +11,10 @@ class Solution {
         for(int i=nums.length - 2; i>=0; i--){
             right[i] = right[i+1] * nums[i+1];
         }
-        nums[0] = right[0];
-        nums[nums.length-1] = left[nums.length-1];
+        // nums[0] = right[0];
+        // nums[nums.length-1] = left[nums.length-1];
 
-        for(int i=1; i<nums.length-1; i++){
+        for(int i=0; i<nums.length; i++){
             nums[i] = left[i] * right[i];
         }
         return nums;
