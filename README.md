@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3469-maximum-height-of-a-triangle](https://github.com/Dharshan1354/Leetcode-problems/tree/master/3469-maximum-height-of-a-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Dharshan1354/Leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Dharshan1354/Leetcode-problems/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2083-three-divisors](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2507-number-of-common-factors) |
+| [3469-maximum-height-of-a-triangle](https://github.com/Dharshan1354/Leetcode-problems/tree/master/3469-maximum-height-of-a-triangle) |
 ## Number Theory
 |  |
 | ------- |
