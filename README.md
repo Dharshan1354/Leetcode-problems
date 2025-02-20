@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0414-third-maximum-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1775-design-an-ordered-stream](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1775-design-an-ordered-stream) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Dharshan1354/Leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0343-integer-break) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 ## Bit Manipulation
@@ -129,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0338-counting-bits) |
 ## Stack
