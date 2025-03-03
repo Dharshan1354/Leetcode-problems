@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0118-pascals-triangle) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0191-number-of-1-bits) |
