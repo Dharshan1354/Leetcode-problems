@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0174-dungeon-game) |
 | [0338-counting-bits](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0392-is-subsequence) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0174-dungeon-game](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0174-dungeon-game) |
 ## Divide and Conquer
 |  |
 | ------- |
