@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1775-design-an-ordered-stream](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1775-design-an-ordered-stream) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Dharshan1354/Leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1205-defanging-an-ip-address](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1205-defanging-an-ip-address) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
