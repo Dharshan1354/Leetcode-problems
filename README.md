@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1775-design-an-ordered-stream](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1775-design-an-ordered-stream) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
+| [1046-max-consecutive-ones-iii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Database
