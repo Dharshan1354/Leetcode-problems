@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0268-missing-number) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
