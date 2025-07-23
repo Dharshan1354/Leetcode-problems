@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0567-permutation-in-string) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0907-koko-eating-bananas](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0907-koko-eating-bananas) |
