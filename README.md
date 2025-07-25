@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0907-koko-eating-bananas](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0954-maximum-sum-circular-subarray) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1063-best-sightseeing-pair) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0782-jewels-and-stones) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1775-design-an-ordered-stream](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1775-design-an-ordered-stream) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
