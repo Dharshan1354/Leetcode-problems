@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0907-koko-eating-bananas](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0917-boats-to-save-people](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Dharshan1354/Leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
+| [0917-boats-to-save-people](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0055-jump-game) |
+| [0917-boats-to-save-people](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
