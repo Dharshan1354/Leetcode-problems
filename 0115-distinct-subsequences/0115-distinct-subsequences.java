@@ -1,28 +1,26 @@
 class Solution {
     public int numDistinct(String s, String t) {
-        int m = s.length();
-        int n = t.length();
+        int rows = s.length();
+        int cols = t.length();
         
-        int[][] dp = new int[m + 1][n + 1];
+        int[][] dp = new int[rows + 1][cols + 1];
 
-        // Base case: Empty target t ("") is a subsequence of any prefix of s
-        for (int i = 0; i <= m; i++) {
-            dp[i][0] = 1;
+        // Base case: An empty target string t is a subsequence of any prefix of s
+        for (int row = 0; row <= rows; row++) {
+            dp[row][0] = 1;
         }
 
         // Fill the dp table
-        for (int i = 1; i <= m; i++) {
-            for (int j = 1; j <= n; j++) {
-                if (s.charAt(i - 1) == t.charAt(j - 1)) {
-                    // We can either use the matching char or skip it
-                    dp[i][j] = dp[i - 1][j - 1] + dp[i - 1][j];
+        for (int row = 1; row <= rows; row++) {
+            for (int col = 1; col <= cols; col++) {
+                if (s.charAt(row - 1) == t.charAt(col - 1)) {
+                    dp[row][col] = dp[row - 1][col - 1] + dp[row - 1][col];
                 } else {
-                    // Only option: skip s[i-1]
-                    dp[i][j] = dp[i - 1][j];
+                    dp[row][col] = dp[row - 1][col];
                 }
             }
         }
 
-        return dp[m][n];
+        return dp[rows][cols];
     }
 }
