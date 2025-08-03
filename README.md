@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0174-dungeon-game) |
