@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0747-min-cost-climbing-stairs) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0414-third-maximum-number) |
+| [0611-valid-triangle-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0917-boats-to-save-people](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0907-koko-eating-bananas](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0611-valid-triangle-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
