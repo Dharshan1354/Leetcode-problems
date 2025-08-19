@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Dharshan1354/Leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0258-add-digits) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
