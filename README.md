@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2887-sort-vowels-in-a-string](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Dharshan1354/Leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-strong-password-checker-ii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2391-strong-password-checker-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2887-sort-vowels-in-a-string](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2887-sort-vowels-in-a-string) |
 ## Math
 |  |
 | ------- |
