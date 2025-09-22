@@ -16,8 +16,6 @@ class Solution {
         for(int n:nums){
             sb.append(n);
         }
-        String result = sb.toString();
-        if(result.charAt(0) == '0') return "0"; 
-        return result;
+        return sb.toString();
     }
 }
