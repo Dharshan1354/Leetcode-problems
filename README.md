@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -438,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
