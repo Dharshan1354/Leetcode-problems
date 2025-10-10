@@ -1,11 +1,15 @@
 class Solution {
     public long zeroFilledSubarray(int[] nums) {
+        long streak = 1;
         long count = 0;
-        long streak = 0;
-        for(int num: nums){
-            streak = (num == 0) ? streak+1 : 0;
-            count += streak;
+        for(int n : nums){
+            if(n == 0){
+                count += streak;
+                streak++;
+            }
+            else
+                streak = 1;
         }
-        return count;
+    return count;
     }
 }
