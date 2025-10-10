@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0414-third-maximum-number) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0179-largest-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
