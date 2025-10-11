@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0053-maximum-subarray) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Dharshan1354/Leetcode-problems/tree/master/0205-isomorphic-strings) |
