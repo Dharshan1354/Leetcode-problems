@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Dharshan1354/Leetcode-problems/tree/master/3469-maximum-height-of-a-triangle) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1775-design-an-ordered-stream](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1775-design-an-ordered-stream) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Dharshan1354/Leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2211-k-radius-subarray-averages](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2211-k-radius-subarray-averages) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dharshan1354/Leetcode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
